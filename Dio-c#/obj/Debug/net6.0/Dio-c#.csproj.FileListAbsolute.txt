@@ -1,0 +1,15 @@
+C:\Users\Chris\Desktop\Dio-c#\bin\Debug\net6.0\Dio-c#.exe
+C:\Users\Chris\Desktop\Dio-c#\bin\Debug\net6.0\Dio-c#.deps.json
+C:\Users\Chris\Desktop\Dio-c#\bin\Debug\net6.0\Dio-c#.runtimeconfig.json
+C:\Users\Chris\Desktop\Dio-c#\bin\Debug\net6.0\Dio-c#.dll
+C:\Users\Chris\Desktop\Dio-c#\bin\Debug\net6.0\ref\Dio-c#.dll
+C:\Users\Chris\Desktop\Dio-c#\bin\Debug\net6.0\Dio-c#.pdb
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.dll
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\ref\Dio-c#.dll
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.pdb
+C:\Users\Chris\Desktop\Dio-c#\obj\Debug\net6.0\Dio-c#.genruntimeconfig.cache
