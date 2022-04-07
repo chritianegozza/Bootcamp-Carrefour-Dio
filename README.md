@@ -8,9 +8,10 @@ Trabalhando com Tipos de Referência e Valor em C#
 *************************************************************************************************
 Projeto
 
-Estudos feito durante o bootcamp da dio, prática do conteudo abordado.
+Estudos feito durante o bootcamp da dio Carrefour , prática do conteudo abordado.
 
-
+-Demo Reference Types na prática
+-Praticando Usando Ref e Struct
 
 **************************************************************************************************
 🚀 Linguagem
