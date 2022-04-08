@@ -6,6 +6,9 @@ Trabalhando com Tipos de Referência e Valor em C#
 
 ![image](https://user-images.githubusercontent.com/72118415/162277299-7b174380-c42e-4354-8d78-997a6d3d570c.png)
 
+![image](https://user-images.githubusercontent.com/72118415/162340248-c4e75024-ee9c-4d91-bce4-b964ca6488b2.png)
+
+
 *************************************************************************************************
 Projeto
 
@@ -13,7 +16,7 @@ Estudos feito durante o bootcamp da dio Carrefour , prática do conteudo abordad
 
 -Demo Reference Types na prática
 -Praticando Usando Ref e Struct
-
+- Aprendendo a comparar Valores e Referências
 **************************************************************************************************
 🚀 Linguagem
 
