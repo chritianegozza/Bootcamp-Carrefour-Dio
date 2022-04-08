@@ -1,17 +1,22 @@
 ﻿using static System.Console;
+Numero a = new Numero(2);
+Numero b = new Numero(2);
 
-
-Pessoa p1 = new Pessoa();
-
-p1.Nome = "Christiane";
-p1.Idade = 36;
-
-p1.EnderecoPessoa = new Endereco()
+if(a == b)
 {
-    Logradouro = "Rua Calos Gomes",
-    Numero = 350,
-    CEP = "11000000",
-    Cidade = "São Paulo",
-};
+   WriteLine("$a e b são iguais");
+}
+else
+{
+    WriteLine("$a e b são diferentes");  
+}
 
-WriteLine("Fim");
+class Numero
+{
+   public int N { get; set; }
+
+   public Numero(int n)
+   {
+       N = n;
+   }
+}
