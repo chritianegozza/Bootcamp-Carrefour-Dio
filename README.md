@@ -16,8 +16,8 @@ Projeto
 
 Estudos feito durante o bootcamp da dio Carrefour , prática do conteudo abordado.
 
--Demo Reference Types na prática
--Praticando Usando Ref e Struct
+- Demo Reference Types na prática
+- Praticando Usando Ref e Struct
 - Aprendendo a comparar Valores e Referências
 **************************************************************************************************
 🚀 Linguagem
