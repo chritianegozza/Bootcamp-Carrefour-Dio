@@ -13,6 +13,9 @@ Trabalhando com Tipos de Referência e Valor em C#
 
 ![image](https://user-images.githubusercontent.com/72118415/162349333-f3f0ce3c-f4bd-4790-bfb1-65d8c9395f83.png)
 
+![image](https://user-images.githubusercontent.com/72118415/162495334-c5e61fe9-10f3-4994-a2d8-d3291e24283a.png)
+
+
 ![image](https://user-images.githubusercontent.com/72118415/162493605-06d79fcf-9c24-4261-8cd6-8f21d860da0d.png)
 
 *************************************************************************************************
@@ -24,6 +27,7 @@ Estudos feito durante o bootcamp da dio Carrefour , prática do conteudo abordad
 - Praticando Usando Ref e Struct
 - Aprendendo a comparar Valores e Referências
 - Garbage Collector
+- Comandos de repetição, FOR, FOREACH, DO e WHILE
 - Pulando com BREAK e CONTINUE
 **************************************************************************************************
 🚀 Linguagem
