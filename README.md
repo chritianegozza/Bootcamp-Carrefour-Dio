@@ -19,6 +19,7 @@ Estudos feito durante o bootcamp da dio Carrefour , prática do conteudo abordad
 - Demo Reference Types na prática
 - Praticando Usando Ref e Struct
 - Aprendendo a comparar Valores e Referências
+- Garbage Collector
 **************************************************************************************************
 🚀 Linguagem
 
